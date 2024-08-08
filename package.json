@@ -1,0 +1,15 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "nodemon src/index.ts",
+    "dev2" : "nodemon src/test.ts",
+    "dev3" : "nodemon src/Persoalan.ts",
+    "build" : "tsc -w"
+  },
+  "author": "Karudaka",
+  "license": "ISC"
+}
